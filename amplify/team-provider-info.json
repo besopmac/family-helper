@@ -1,0 +1,14 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-familyhelper-dev-135149-authRole",
+      "UnauthRoleArn": "arn:aws:iam::640042275047:role/amplify-familyhelper-dev-135149-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::640042275047:role/amplify-familyhelper-dev-135149-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-familyhelper-dev-135149-deployment",
+      "UnauthRoleName": "amplify-familyhelper-dev-135149-unauthRole",
+      "StackName": "amplify-familyhelper-dev-135149",
+      "StackId": "arn:aws:cloudformation:us-east-2:640042275047:stack/amplify-familyhelper-dev-135149/c1c11a10-ea6f-11ec-a8e3-0627b59c75fe"
+    }
+  }
+}
